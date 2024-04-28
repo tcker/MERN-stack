@@ -2,6 +2,8 @@ https://www.youtube.com/watch?v=XPC81RWOItI
 
 best tutorial
 
+### npm install first before starting web
+
 last time watch 1:03:37PM April 4, 2024
 From watching 1:03:37
 
